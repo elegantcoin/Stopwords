@@ -14,3 +14,5 @@ Create customized stopwords and WOI(word of interest):
 <br />
 
 ## [region name in China](https://github.com/elegantcoin/stopwords/blob/master/region_name.txt)
+
+## [companies1](https://github.com/elegantcoin/stopwords/blob/master/companies1.txt)
